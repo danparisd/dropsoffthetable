@@ -4,14 +4,14 @@ image: /img/recipes/rice.jpg
 tags:
   - Asian
   - Favourite ⭐
+  - Special-Equipment
 time: 25 min
 servings: 2-8
 ingredients:
   - water
   - rice
-equipment:
-  - pot with lid
-  - seive that fits closely in the pot 
+  - equipment\: pot with lid
+  - equipment\: seive that fits closely in the pot 
 ---
 
 1 cup rice make about 2 servings.
