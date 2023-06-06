@@ -1,12 +1,12 @@
 {
-    "name": "My Online Cookbook",
-    "metaDescription": "The online cookbook of John Doe",
-    "author": "John Doe",
-    "primaryColor": "#ffdb70",
+    "name": "Drops Off the Table",
+    "metaDescription": "Recipes, usable on mobile",
+    "author": "Dan",
+    "primaryColor": "#ff8800",
     "secondaryColor": "#32816e",
     "searchLabel": "Find recipes by name, tag or ingredients",
     "searchContainsLabel": "Contains",
-    "servingsLabel": "servings",
+    "servingsLabel": "Servings",
     "ingredientsLabel": "Ingredients",
-    "baseURL": "https://myonlinecookbook.netlify.app"
+    "baseURL": "https://dropsoffthetable.com"
 }

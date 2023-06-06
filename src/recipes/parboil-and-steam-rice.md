@@ -10,11 +10,11 @@ servings: 2-8
 ingredients:
   - water
   - rice
-  - equipment\: pot with lid
-  - equipment\: seive that fits closely in the pot 
+  - equipment - pot with lid
+  - equipment - seive that fits closely in the pot 
 ---
 
-1 cup rice make about 2 servings.
+1 cup of rice make about 2 servings, but you can make as much rice as your seive will hold once cooked. For dry rice, don't fill the seive more than half way to the top of the seive.
 
 Bring water to boil on the stove. Enough to cover the rice by an inch or two
 

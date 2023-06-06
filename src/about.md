@@ -6,4 +6,4 @@ bodyClass: u-free-text
 ![A picture of a black pug wearing a pilot jacket](/img/about.jpg)
 \
 \
-This page is for you to present yourself and/or explain what your cookbook is about.
+This is a simple recipe site, intended to be usable on mobile with minimal ads and affiliate links to pay for the site. None of those video overlays and lengthy writing above the recipe.
