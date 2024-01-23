@@ -1,6 +1,8 @@
 ---
 title: Georgia Style BBQ Mop and Dip
 image: /img/recipes/53247477302_76e0c72be9_c.jpg
+tags:
+  - BBQ
 ingredients:
   - 1 cup White Vinegar
   - 1/2 cup Cider Vinegar
